@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Cypress artifacts (regenerated when tests run)
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+.DS_Store
+Thumbs.db
